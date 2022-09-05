@@ -1,6 +1,6 @@
 {
   "realm": "cmc-corp",
-  "auth-server-url": "http://localhost:8080/",
+  "auth-server-url": "https://auth-sso.abcsoft.vn/",
   "ssl-required": "external",
   "resource": "react-auth-client2",
   "public-client": true,
